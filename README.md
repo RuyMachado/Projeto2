@@ -17,7 +17,7 @@
 
 ## Tecnologias usadas:
 
-<table> 
+<table>
     <tr> 
         <td>HTML5</td> 
         <td>CSS3</td> 
